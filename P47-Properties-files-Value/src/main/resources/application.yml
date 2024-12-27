@@ -1,0 +1,17 @@
+
+# YML stands YET ANOTHER MARKUP Language
+
+
+
+
+spring:
+  application:
+    name: P47-Properties-files-Value
+server:
+  port: 3333
+main:
+  fullform: YML stands YET ANOTHER MARKUP Language.....
+messages:
+  word: welcome to properties.........!!
+babu:
+  balayya: 😁😁😁😁😁 balayya babu fan eakkada...............❤️!!
