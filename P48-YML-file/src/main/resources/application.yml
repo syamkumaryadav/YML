@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: P48-YML-file
+server:
+  port: 3456
+syam:
+  messages: 
+    welcomeMsg: Welcome To my page..... 
+    greetMsg: Good Morning
